@@ -1,0 +1,568 @@
+                               :root {
+                                  --capaZ0: #121212;
+                                  --capaZ1: rgb(62 62 62 / 10%);
+                                  --capaZ2: rgb(62 62 62 / 20%);
+                                  --capaZ3: rgb(62 62 62 / 30%);
+                                  --capaZ4: rgb(62 62 62 / 40%);
+                                  --capaZ5: rgb(62 62 62 / 50%);
+                                  --capaZ6: rgb(62 62 62 / 60%);
+                                  --capaZ7: rgb(62 62 62 / 70%);
+                                  --capaZ8: rgb(62 62 62 / 80%);
+                                  --capaZ9: rgb(62 62 62 / 90%);
+                                  --capaZ10: rgb(62 62 62 / 100%);
+                                  --main: #22a09b;
+                                  --mention: #ff6b00;
+                              }
+                              
+                              body {
+                                  color: #ffffff !important;
+                                  background: var(--capaZ0);
+                              }
+                              
+                              .vKlWpc {
+                                  align-self: center;
+                                  height: 32px;
+                                  margin: auto 24px;
+                                  background: var(--capaZ0) !important;
+                                  border-radius: 30px;
+                                  padding: 5px 10px;
+                              }
+                              /*lateral izquierada*/
+                              
+                              .WK4gNc {
+                                  box-sizing: border-box;
+                                  display: flex;
+                                  flex-direction: column;
+                                  height: 100%;
+                                  position: absolute;
+                                  width: 100%;
+                                  background: var(--capaZ0) !important;
+                              }
+                              
+                              .mfLLkf {
+                                  background: var(--capaZ5) !important;
+                                  bottom: 0;
+                                  display: flex;
+                                  flex-direction: column;
+                                  left: 0;
+                                  position: absolute;
+                                  right: 0;
+                                  top: 0;
+                              }
+                              
+                              .aOHsTc {
+                                  font-family: 'Roboto', sans-serif;
+                                  color: inherit !important;
+                              }
+                              /*barra superior izquierda */
+                              
+                              .DWzK6d {
+                                  align-items: center;
+                                  background: var(--capaZ10) !important;
+                              }
+                              
+                              .Riuhhf {
+                                  border-right: solid 1px var(--capaZ7) !important;
+                              }
+                              
+                              .X9KLPc {
+                                  background: var(--capaZ0) !important;
+                                  border-right: solid 1px var(--capaZ0) !important;
+                              }
+                              
+                              .WK4gNc {
+                                  box-sizing: border-box;
+                                  display: flex;
+                                  flex-direction: column;
+                                  height: 100%;
+                                  position: absolute;
+                                  width: 100%;
+                                  background: var(--capaZ5) !important;
+                              }
+                              /*buqueda lateral izquierdo*/
+                              
+                              .d6pS5 {
+                                  box-shadow: none !important;
+                                  background: var(--capaZ10) !important;
+                                  height: auto;
+                                  margin-bottom: 0;
+                                  margin-left: 20px;
+                                  margin-right: 24px;
+                                  min-height: 48px;
+                                  padding-bottom: 4px;
+                                  z-index: 1;
+                              }
+                              
+                              .d6pS5.iWO5td .ffyVOd {
+                                  background: var(--capaZ1) !important;
+                              }
+                              
+                              .JbsGbc {
+                                  fill: var(--main) !important;
+                                  height: 24px;
+                                  vertical-align: middle;
+                                  width: 24px;
+                                  margin-top: 12px;
+                              }
+                              
+                              .vsxzuf {
+                                  fill: #ffffff !important;
+                                  height: 24px;
+                                  vertical-align: middle;
+                                  width: 24px;
+                              }
+                              
+                              .HLTcjb {
+                                  font-family: 'Google Sans', Arial, sans-serif;
+                                  color: #fff !important;
+                                  font-weight: 400;
+                                  font-size: 1rem;
+                                  line-height: 1.5rem;
+                                  margin-top: 4px;
+                              }
+                              
+                              .hU65Ef {
+                                  align-self: flex-start;
+                                  background: var(--capaZ10) !important;
+                                  display: flex;
+                                  flex-direction: column;
+                                  height: 100%;
+                                  overflow: hidden;
+                                  width: 100%;
+                              }
+                              
+                              .ReIHZc .ZTmjQb {
+                                  color: #ffffff !important;
+                                  font-size: .875rem;
+                              }
+                              
+                              .RSb8Fe {
+                                  fill: #ffffff !important;
+                              }
+                              
+                              .s6FlWd {
+                                  font-family: 'Roboto', sans-serif;
+                                  color: var(--main) !important;
+                              }
+                              /*no leidos*/
+                              
+                              .FTuhNb {
+                                  background-color: var(--main) !important;
+                                  border-radius: 20px;
+                                  display: flex;
+                                  flex-direction: column;
+                                  height: 100%;
+                                  justify-content: center;
+                                  margin: 0 auto;
+                              }
+                              
+                              .OpmeVb .GfYBMd {
+                                  height: 18px;
+                                  fill: #ffffff !important;
+                              }
+                              
+                              .FTuhNb .RW5Kg {
+                                  color: #ffffff !important;
+                                  display: flex;
+                              }
+                              /*item sala */
+                              
+                              .t5F5nf {
+                                  color: #c0c0c0 !important;
+                              }
+                              
+                              .FS4hgd.iWO5td.iWO5td,
+                              div .dHI9xe.KKjvXb,
+                              div .dHI9xe.qs41qe {
+                                  background-color: var(--capaZ10) !important;
+                              }
+                              
+                              .FS4hgd.iWO5td .ojqkvd,
+                              .FS4hgd.iWO5td,
+                              .dHI9xe.qs41qe,
+                              .dHI9xe.KKjvXb.KKjvXb,
+                              .dHI9xe.qs41qe .ojqkvd.ojqkvd,
+                              .dHI9xe.KKjvXb.KKjvXb .ojqkvd {
+                                  color: #ffffff !important;
+                                  fill: #ffffff !important;
+                              }
+                              
+                              .PL5Wwe.H7du2 .t5F5nf {
+                                  font-size: .875rem;
+                                  font-weight: 700;
+                                  color: var(--main) !important;
+                              }
+                              
+                              .JPdR6b {
+                                  background: var(--capaZ0) !important;
+                              }
+                              
+                              .z80M1 {
+                                  color: #ffffff !important;
+                              }
+                              /*new rom*/
+                              
+                              .fKz7Od {
+                                  color: var(--main) !important;
+                                  fill: var(--main) !important;
+                              }
+                              /*status*/
+                              
+                              .RASpke {
+                                  align-items: center;
+                                  border: 1px solid var(--capaZ1) !important;
+                                  border-radius: 14px;
+                                  box-sizing: border-box;
+                                  display: flex;
+                                  height: 32px;
+                                  margin-right: 24px;
+                                  min-width: initial;
+                                  padding: 0 8px;
+                                  text-transform: none;
+                                  width: 100%;
+                                  background: var(--capaZ0) !important;
+                              }
+                              /*barra superior */
+                              
+                              .QTQg5e {
+                                  background: var(--capaZ5) !important;
+                                  border-bottom: solid 1px var(--capaZ4) !important;
+                                  display: flex;
+                                  flex: 1 1;
+                                  box-flex: 2;
+                                  flex-grow: 2;
+                                  height: 100%;
+                                  min-width: 275px;
+                                  width: auto;
+                              }
+                              
+                              .nk7hB,
+                              .wWf0Bc,
+                              .nk7hB .cAW0Vc {
+                                  font-family: 'Google Sans', Arial, sans-serif;
+                                  color: #ffffff !important;
+                                  font-size: 1.125rem;
+                                  font-weight: 500;
+                                  line-height: 1.8845rem;
+                                  white-space: nowrap;
+                                  word-break: break-word;
+                              }
+                              
+                              .Nj8aCb.Nj8aCb {
+                                  color: #ffffff !important;
+                                  fill: #ffffff !important;
+                              }
+                              /*fondo bloque chat*/
+                              
+                              .CMcgue {
+                                  background-color: var(--capaZ4) !important;
+                              }
+                              
+                              .EyyDtb,
+                              .DLc2vb .Bqp03e[data-soft-view-id^="/dm"],
+                              .DLc2vb .Bqp03e[data-soft-view-id^="/room"] {
+                                  background-color: var(--capaZ0) !important;
+                              }
+                              
+                              .Bl2pUd {
+                                  background-color: var(--capaZ0) !important;
+                                  padding: 0 16px 0 24px;
+                              }
+                              /*bloque de conversacion*/
+                              
+                              .dsoUjb {
+                                  background-color: var(--capaZ4) !important;
+                                  border: none !important;
+                              }
+                              
+                              .oGsu4 {
+                                  align-items: flex-start;
+                                  background-color: transparent !important;
+                              }
+                              
+                              nF6pT.FwR7Pc .iKCcE,
+                              .hu21Y:hover {
+                                  background-color: var(--capaZ6) !important;
+                                  border-radius: 2px;
+                              }
+                              /*comodines*/
+                              
+                              .XbbXmb.zzVqCe .nF6pT,
+                              .dsoUjb .jGyvbd .jO0Dzb {
+                                  background-color: transparent !important;
+                                  padding-top: 10px;
+                              }
+                              /*pop up reaccion msg*/
+                              
+                              .eWw5ab {
+                                  align-items: center;
+                                  background-color: var(--capaZ10) !important;
+                                  border-radius: 28px;
+                                  box-shadow: 0 1px 2px 0 rgba(60, 64, 67, 0.3), 0 2px 6px 2px rgba(60, 64, 67, 0.15);
+                                  display: flex;
+                                  flex-shrink: 0;
+                                  padding: 0;
+                              }
+                              
+                              .f8lxbf {
+                                  fill: var(--main) !important;
+                                  height: 20px;
+                                  width: 20px;
+                              }
+                              /**popup siguiendo*/
+                              
+                              .yg4pvb:before {
+                                  content: ' ';
+                                  position: absolute;
+                                  width: 20px;
+                                  height: 100%;
+                                  background: none !important;
+                              }
+                              
+                              .zxHSSc.FuHVqe {
+                                  background-color: var(--capaZ10) !important;
+                                  border-color: transparent;
+                                  color: inherit;
+                                  border: 1px soldi var(--capaZ0) !important;
+                              }
+                              
+                              .zxHSSc {
+                                  font-family: 'Google Sans', Arial, sans-serif;
+                                  font-size: .875rem;
+                                  font-weight: 500;
+                                  line-height: 1.25rem;
+                                  text-transform: initial;
+                                  align-items: center;
+                                  background-color: #633939 !important;
+                                  border-radius: 12px;
+                                  border: solid 1px var(--capaZ1) !important;
+                                  box-sizing: border-box;
+                                  color: #ffffff !important;
+                                  display: flex;
+                                  min-height: 24px;
+                                  padding: 0 12px;
+                              }
+                              /*busqueda de emogi*/
+                              
+                              .zgMAae.iWO5td.eO2Zfd .zZ3s4 {
+                                  border: solid 1px #000000;
+                                  display: flex;
+                                  height: unset;
+                                  max-width: 306px;
+                                  min-width: 210px;
+                                  overflow: default;
+                                  width: 260px;
+                                  background: var(--capaZ10);
+                              }
+                              
+                              .Tl0u0c {
+                                  font-family: 'Roboto', sans-serif;
+                                  font-size: 14px;
+                                  border: none;
+                                  height: 100%;
+                                  width: 100%;
+                                  background: transparent;
+                                  color: #fff !important;
+                              }
+                              /*nombre iinterviniente en chat*/
+                              
+                              .cmEq8b .Z4BnXb .njhDLd {
+                                  font-family: 'Google Sans', Arial, sans-serif;
+                                  color: var(--main) !important;
+                                  font-size: .875rem;
+                                  font-weight: 500;
+                                  line-height: 1.25rem;
+                              }
+                              
+                              .fWwrkf {
+                                  color: var(--mention) !important;
+                                  font-weight: 500;
+                              }
+                              /*texto del chat */
+                              
+                              .cmEq8b .Zc1Emd,
+                              .cmEq8b .Z4BnXb {
+                                  color: #FFF !important;
+                              }
+                              /*escribir en una sala */
+                              
+                              .vmpzOc {
+                                  background-color: var(--capaZ10) !important;
+                                  border-bottom-left-radius: inherit;
+                                  border-bottom-right-radius: inherit;
+                                  display: none;
+                                  margin: 0 24px;
+                                  position: relative;
+                                  z-index: 4;
+                              }
+                              
+                              .PhFuQe.yXgmRe .dJ9vNe {
+                                  background-color: var(--capaZ9) !important;
+                                  border: none;
+                              }
+                              
+                              .BScnzc {
+                                  color: #fff !important;
+                                  font-size: .875rem;
+                                  line-height: 1.25rem;
+                                  align-items: flex-start;
+                                  align-self: stretch;
+                                  box-sizing: border-box;
+                                  display: flex;
+                                  box-flex: 1;
+                                  flex-grow: 1;
+                                  max-width: 100%;
+                              }
+                              
+                              .dJ9vNe {
+                                  border: 0;
+                                  border-radius: calc(48px/2);
+                                  background-color: var(--capaZ9) !important;
+                              }
+                              
+                              .ddHZbd,
+                              .wAZd3e {
+                                  color: #ffffff !important;
+                                  fill: #dcdcdc !important;
+                              }
+                              
+                              div .mUbCce:hover,
+                              div .mUbCce:focus,
+                              div .mUbCce:active,
+                              div .mUbCce.qs41qe,
+                              div .mUbCce.u3bW4e,
+                              .JRtysb:hover .snByac,
+                              .JRtysb:focus .snByac,
+                              .JRtysb:active .snByac,
+                              .JRtysb.qs41qe .snByac,
+                              .JRtysb.u3bW4e .snByac {
+                                  fill: var(--main) !important;
+                              }
+                              
+                              .zFe2Ef:not(.RDPZE) .v6TC2e {
+                                  fill: var(--main) !important;
+                              }
+                              /*placeholder*/
+                              
+                              .XweIZc {
+                                  display: flex;
+                                  align-items: flex-end;
+                                  color: #c1c1c1;
+                              }
+                              /*ir abajo*/
+                              
+                              .g3VIld .HvOprf,
+                              .e3Duub,
+                              .w63zXd .NMPajd {
+                                  background-color: var(--main) !important;
+                                  box-shadow: none;
+                              }
+                              /*nueva conversacion*/
+                              
+                              .SfqTBc {
+                                  color: #fff !important;
+                                  font-size: .9rem;
+                                  font-weight: 500;
+                                  align-items: center;
+                                  background-color: var(--capaZ10) !important;
+                                  border-radius: 40px;
+                                  box-shadow: none !important;
+                                  box-sizing: border-box;
+                                  display: flex;
+                                  margin: auto;
+                                  max-width: 100%;
+                                  min-height: 48px;
+                                  padding: 12px 24px 12px 12px;
+                                  width: auto;
+                              }
+                              
+                              .qnCNBb {
+                                  font-family: 'Google Sans', Arial, sans-serif;
+                                  color: inherit !important;
+                                  font-size: 1rem;
+                                  font-weight: 500;
+                                  line-height: 1.5rem;
+                                  display: inline-block;
+                                  overflow: hidden;
+                                  text-overflow: ellipsis;
+                                  vertical-align: middle;
+                              }
+                              
+                              .p9Cqzd {
+                                  fill: #ffffff !important;
+                                  height: 20px;
+                                  margin: 2px;
+                                  width: 20px;
+                              }
+                              
+                              .B2Lwp {
+                                  align-items: center;
+                                  background-color: var(--main) !important;
+                                  display: inline-flex;
+                                  justify-content: center;
+                                  margin: 0;
+                                  height: initial;
+                                  min-height: initial;
+                                  min-width: initial;
+                                  width: initial;
+                              }
+                              
+                              .i6q1kd {
+                                  fill: #ffffff !important;
+                              }
+                              
+                              .aVw1Ob,
+                              .SfqTBc .jy2fzc {
+                                  color: #fff !important;
+                              }
+                              
+                              .rEu3Tb {
+                                  fill: #ffffff !important;
+                                  height: 20px;
+                                  width: 20px;
+                              }
+                              /*bloque conversacion one to one */
+                              
+                              .bzJiD {
+                                  background-color: var(--capaZ0) !important;
+                              }
+                              
+                              .XganBc {
+                                  background-color: var(--capaZ10) !important;
+                                  border-radius: 12px 12px 0 0;
+                                  box-shadow: none;
+                                  box-sizing: border-box;
+                                  display: flex;
+                                  flex-direction: column;
+                                  margin-top: 0;
+                                  min-height: 0;
+                                  padding: 20px 20px 5px 20px;
+                                  width: 100%;
+                              }
+                              
+                              .XweIZc {
+                                  display: flex;
+                                  align-items: flex-end;
+                                  color: #dedede !important;
+                                  height: 100%;
+                                  padding: 0 16px;
+                                  pointer-events: none;
+                                  position: absolute;
+                                  top: 0;
+                                  width: calc(100% - 16px);
+                              }
+                              
+                              .WQKmIb .dsoUjb {
+                                  border: 0;
+                                  padding: 7px !important;
+                                  border-radius: 0 !important;
+                              }
+                              
+                              .WQKmIb .ajCeRb:not(.zzVqCe) {
+                                  padding-top: 0 !important;
+                                  padding-bottom: 0;
+                              }
+                              
+                              .XbbXmb.zzVqCe+.ajCeRb:not(.zzVqCe) {
+                                  padding-top: 0 !important;
+                              }
