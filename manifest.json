@@ -4,6 +4,10 @@
     "version": "1.0",
     "description": "Google chat flat dark theme ",
     "author": "@duvanjamid https://github.com/duvanjamid ",
+    "icons": {
+        "24": "google-chat_24.png",
+        "128": "google-chat_128.png"
+    },
     "permissions": ["activeTab"],
     "content_scripts": [{
         "matches": ["https://chat.google.com/*"],
